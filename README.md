@@ -1,2 +1,2 @@
 # PythonStudyCode
-Python 学习代码片段记录
+记录 Python 学习过程中的一些代码片段
